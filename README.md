@@ -17,7 +17,7 @@ This is a C++ application designed to simulate a supermarket billing system. It 
 ## Getting Started
 
 ### Prerequisites
-- A C++ compiler (e.g., GCC, Clang, or MSVC).
+- A C++ compiler (e.g., GCC)
 
 ### Installation
 1. Clone this repository to your local machine:
@@ -30,11 +30,11 @@ This is a C++ application designed to simulate a supermarket billing system. It 
    ```
 3. Compile the code:
    ```bash
-   g++ -o supermarket BillingSystem.cpp
+   g++ SuperMarketBillingSystem.cpp -o a
    ```
 4. Run the application:
    ```bash
-   ./supermarket
+   a.exe
    ```
 
 ## Usage
