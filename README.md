@@ -1,5 +1,4 @@
 # Super-market-Billing-System
-# Supermarket Billing System
 
 This is a C++ application designed to simulate a supermarket billing system. It provides functionality for administrators to manage products and for buyers to make purchases and receive detailed receipts.
 
