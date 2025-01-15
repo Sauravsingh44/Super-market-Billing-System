@@ -22,7 +22,7 @@ This is a C++ application designed to simulate a supermarket billing system. It 
 ### Installation
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/supermarket-billing-system.git
+   https://github.com/Sauravsingh44/Super-market-Billing-System.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -53,7 +53,7 @@ This is a C++ application designed to simulate a supermarket billing system. It 
 
 ## Project Structure
 - **BillingSystem.cpp**: Main source file containing the application logic.
-- **products.txt**: (Optional) File used to store product data persistently.
+- **products.txt**: File used to store product data persistently.
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
